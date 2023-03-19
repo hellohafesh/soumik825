@@ -5,12 +5,12 @@
 
 <h1 align="center">Hi 👋, I'm All Hafesh Soumik</h1>
 <h3 align="center">A passionate frontend developer</h3> 
-<img align="right" alt="Coding" width="400" height="300"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
+<img align="right" alt="Coding" width="400" height="350"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://allhafesh.web.app/](https://allhafesh.web.app/)
 
-- 💬 Ask me about **react,MERN,frontend technologies**
+- 💬 Ask me about **React,MERN,FrontEnd Technologies**
 
 - 📫 How to reach me **allhafesh825@gmail.com**
 
