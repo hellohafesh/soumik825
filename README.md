@@ -4,7 +4,7 @@
 <img align="center" alt="Soumik" width="400" height="350"  src="https://i.ibb.co/8B5rL0t/IMG-39911-removebg-preview.png">
 <h1 align="center">Hi 👋, I'm All Hafesh Soumik</h1>
 <h3 align="center">A passionate frontend developer</h3> 
-<img align="right" alt="Coding" width="400" height="350"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
+<img align="right" alt="Coding" width="400" height="450"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://allhafesh.web.app/](https://allhafesh.web.app/)
