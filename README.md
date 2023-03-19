@@ -2,7 +2,7 @@
 <!-- ![Front-End Developer (2)](https://user-images.githubusercontent.com/108381781/210224908-8aa09579-d33a-42b5-859e-f7c12d1b0877.png) -->
 <!--![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)-->
 
-<div align="center"><img align="center"  alt="Soumik" width="full" height="400"  src="https://i.ibb.co/ZhVZzZB/2022-12-09-045945.png"></div>
+<div align="center"><img align="center"  alt="Soumik" width="100%" height="200"  src="https://i.ibb.co/ZhVZzZB/2022-12-09-045945.png"></div>
 
 <div align="center"><img align="center"  alt="Soumik" width="300" height="400"  src="https://i.ibb.co/8B5rL0t/IMG-39911-removebg-preview.png"></div>
 
