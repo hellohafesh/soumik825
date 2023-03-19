@@ -1,10 +1,10 @@
 
 <!-- ![Front-End Developer (2)](https://user-images.githubusercontent.com/108381781/210224908-8aa09579-d33a-42b5-859e-f7c12d1b0877.png) -->
 <!--![Front-End Developer (1)](https://user-images.githubusercontent.com/108381781/210835480-bd3937c6-50dc-40f5-820c-aba4fd9cf9fc.gif)-->
-<img align="center" alt="Soumik" width="400" height="350"  src="https://i.ibb.co/8B5rL0t/IMG-39911-removebg-preview.png">
+<img align="center" alt="Soumik" width="400" height="450"  src="https://i.ibb.co/8B5rL0t/IMG-39911-removebg-preview.png">
 <h1 align="center">Hi 👋, I'm All Hafesh Soumik</h1>
 <h3 align="center">A passionate frontend developer</h3> 
-<img align="right" alt="Coding" width="400" height="450"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
+<img align="right" alt="Coding" width="400" height="350"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://allhafesh.web.app/](https://allhafesh.web.app/)
