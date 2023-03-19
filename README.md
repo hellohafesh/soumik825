@@ -5,7 +5,7 @@
 
 <h1 align="center">Hi 👋, I'm All Hafesh Soumik</h1>
 <h3 align="center">A passionate frontend developer</h3> 
-<img align="right" alt="Coding" width="400" height="400"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
+<img align="right" alt="Coding" width="400" height="300"  src="https://i.ibb.co/VYZ5F3j/coding.gif">
 
 
 - 👨‍💻 All of my projects are available at [https://allhafesh.web.app/](https://allhafesh.web.app/)
@@ -16,7 +16,7 @@
 
 - 📄 Know about my experiences on my Resume [Check here](https://drive.google.com/file/d/12gKmHfRGDusUD7Gyk21-RHMwrPBBBPvK/view?usp=share_link)
 - 📄 Know about my experiences on my CV [Check here](https://drive.google.com/file/d/1N5LkjMPnYOL6fMRVUq3nzhxgTkHCWKut/view?usp=sharing)
-- 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/all-hafesh/" target="blank"><img align="center" src="https://i.ibb.co/1zKqPmd/unnamed.png" alt="all-hafesh" height="30" width="40" /></a><a href="https://www.facebook.com/allhafesh" target="blank"><img align="center" src="https://i.ibb.co/GxdQczd/Facebook-icon-svg.png" alt="all-hafesh" height="30" width="40" /></a><a href="https://www.instagram.com/soumik_00/" target="blank"><img align="center" src="https://i.ibb.co/2kpb1YC/Instagram-logo-2022-svg.webp" alt="all-hafesh" height="30" width="40" /></a>
